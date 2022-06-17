@@ -21,6 +21,16 @@ const respostas = [
   "Sim.",
   "Concentre-se e pergunte novamente.",
   "Sinais apontam que sim.",
+  "Certamente que sim!!!",
+  "Sim, mas pode melhorar.",
+  "Definitivamente!",
+  "Tudo e mais um pouco!",
+  "Minhas fontes dizem que sim!",
+  "Estou prevendo que sim!",
+  "Adcione mais créditos para continuar a consulta.",
+  "Sim, e para não esquecer, O Lula 'ladrão!",
+  "Talvez não.",
+
 ]
 
 // clicar em fazer pergunta
